@@ -1,1 +1,1 @@
-# -Java-Application
+# Java 애플리케이션 관련한 공부내용입니다.
